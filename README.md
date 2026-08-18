@@ -35,4 +35,14 @@ Use esse padrão:
 Use esse padrão:
 
 " ``` Seu código ´´´ "
+
 Obs: Usando apenas as crases
+
+## Badges (Escudos de status)
+
+Adicione escudos informativos no topo da página usando o serviço [Shields.io](https://shields.io):
+
+```markdown
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![License](https://img.shields.io/badge/Licenca-MIT-blue)
+```
