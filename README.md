@@ -1,6 +1,6 @@
 # Aprendendo a editar um README
 
-## Guia rápido
+### Guia rápido
 
 - Títulos
 - Listas e checklist de tarefas
@@ -38,7 +38,7 @@ Use esse padrão:
 " ```Seu código´´´ "
 ````
 
-Obs: Usando apenas as crases
+Obs: Use apenas as crases.
 
 ## Badges (Escudos de status)
 
@@ -48,6 +48,8 @@ Adicione escudos informativos no topo da página usando o serviço [Shields.io](
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/Licenca-MIT-blue)
 ```
+
+Exemplo
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/Licenca-MIT-blue)
@@ -59,5 +61,7 @@ Use esse padrão:
 ```
 ![Seu texto aqui](https://url-da-imagem-ou-gif.com/imagem.png)
 ```
+
+Exemplo
 
 ![Imagem de exemplo](https://wallpaperaccess.com/full/1586326.jpg)
