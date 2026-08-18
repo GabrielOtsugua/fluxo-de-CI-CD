@@ -46,3 +46,17 @@ Adicione escudos informativos no topo da página usando o serviço [Shields.io](
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/Licenca-MIT-blue)
 ```
+
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![License](https://img.shields.io/badge/Licenca-MIT-blue)
+
+## Imagens e gifs
+
+Use esse padrão:
+
+```
+!Seu texto aqui(https://url-da-imagem-ou-gif.com/imagem.png)
+´´´
+
+!Imagem de exemplo(https://wallpaperaccess.com/full/1586326.jpg)
+```
