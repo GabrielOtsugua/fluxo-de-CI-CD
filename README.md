@@ -29,3 +29,10 @@ Use esse padrão:
 - Item checklist 1
 - Item checklist 2
 ```
+
+## Blocos de códigos formatados
+
+Use esse padrão:
+
+" ``` Seu código ´´´ "
+Obs: Usando apenas as crases
