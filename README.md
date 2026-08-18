@@ -17,3 +17,15 @@ Use esse padrão para escrever títulos:
 ## Seu subtítulo
 ### Sua seção secundária
 ```
+
+## Listas e checklist de tarefas
+
+Use esse padrão:
+
+```
+* Item da lista 1
+* Item da lista 2
+
+- Item checklist 1
+- Item checklist 2
+```
