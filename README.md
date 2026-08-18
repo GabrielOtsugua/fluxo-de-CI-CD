@@ -3,9 +3,13 @@
 ## Guia rápido
 
 Títulos
+
 Listas e checklist de tarefas
+
 Blocos de códigos formatados
+
 Badges (Escudos de status)
+
 Imagens e gifs
 
 ## Títulos
