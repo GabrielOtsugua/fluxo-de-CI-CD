@@ -1,6 +1,6 @@
 # Aprendendo a editar um README
 
-**Guia rápido**
+Guia rápido
 
 - Títulos
 - Listas e checklist de tarefas
@@ -19,7 +19,7 @@
 
 ## Listas e checklist de tarefas
 
-```
+```json
 * Item da lista 1
 * Item da lista 2
 
@@ -29,7 +29,7 @@
 
 ## Blocos de códigos formatados
 
-````
+````json
 " ```Seu código´´´ "
 ````
 
@@ -37,7 +37,7 @@ Obs: Use apenas as crases.
 
 ## Badges (Escudos de status)
 
-```
+```json
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/Licenca-MIT-blue)
 ```
@@ -47,7 +47,7 @@ Obs: Use apenas as crases.
 
 ## Imagens e gifs
 
-```
+```json
 ![Seu texto aqui](https://url-da-imagem-ou-gif.com/imagem.png)
 ```
 
@@ -57,7 +57,7 @@ Obs: Use apenas as crases.
 
 Escrevendo em negrito e itálico.
 
-```
+```json
 *Itálico*
 **Negrito**
 ***Itálico e negrito***
