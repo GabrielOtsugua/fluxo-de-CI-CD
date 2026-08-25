@@ -62,5 +62,3 @@ Escrevendo em negrito e itálico.
 **Negrito**
 ***Itálico e negrito***
 ```
-
-Fim.
